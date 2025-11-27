@@ -1,4 +1,4 @@
-![SCEMATIC EP4](https://github.com/user-attachments/assets/feadd94e-505c-4fb0-9439-b0cf7b53efc2)# Design-an-Automatic-street-light-PCB-circuit-using-Eagle-software-and-generate-the-Gerber-file.
+
 ## Exp 8: Design an Automatic street light circuit using Eagle software
 ## AIM:
 To design the schematic and PCB layout diagram of an automatic street light circuit using Eagle software.
